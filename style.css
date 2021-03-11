@@ -1,0 +1,24 @@
+.text{
+    background-color:darkorange;
+}
+
+
+.text{
+    text-align: center;
+}
+
+.imgs{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(2, 175, 255);
+}
+
+.imgs2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(2, 175, 255);
+}
+
+.items{
+    background-color: white;
+}
